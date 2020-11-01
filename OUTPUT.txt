@@ -1,0 +1,82 @@
+//Name: Duong Phan
+//NetID: dphan7
+//Lab section: Gavett 244 TR 2-3.15pm
+
+OUTPUT 0
+
+Line 0:	 0.0	 0.5	 1.0	 0.5
+Point  0.39	0.902	||	Point  0.58	0.348
+----- Line 0 between two points -----
+* Number of external nodes: 1
+* Number of external path length: 0
+* Avarage path length: 	0.00 
+
+OUTPUT 1
+
+Line 0:	 0.0	 0.12	 0.23	 1.0
+Line 1:	 1.0	 0.41	 0.0	 0.52
+Line 2:	 1.0	 0.2	 0.3	 1.0
+Line 3:	 0.0	 0.4	 0.1	 0.0
+Line 4:	 1.0	 0.35	 0.1	 1.0
+Point  0.72	0.768	||	Point  0.278	0.224
+----- Line 1 between two points -----
+* Number of external nodes: 6
+* Number of external path length: 16
+* Avarage path length: 	2.67 
+
+OUTPUT 2
+
+Line 0:	 1.0	 0.685	 0.319	 1.0
+Line 1:	 0.164	 0.0	 0.416	 1.0
+Line 2:	 0.176	 0.0	 0.796	 1.0
+Line 3:	 0.0	 0.663	 0.308	 0.0
+Line 4:	 0.082	 0.0	 1.0	 0.881
+Line 5:	 0.804	 0.0	 1.0	 0.609
+Line 6:	 0.455	 0.0	 0.817	 1.0
+Line 7:	 1.0	 0.487	 0.818	 1.0
+Line 8:	 1.0	 0.642	 0.925	 1.0
+Line 9:	 0.9	 0.0	 1.0	 0.193
+Line 10: 0.0	 0.684	 0.868	 0.0
+Line 11: 0.0	 0.332	 0.042	 1.0
+Line 12: 0.0	 0.759	 1.0	 0.208
+Line 13: 0.0	 0.155	 0.861	 1.0
+Line 14: 0.747	 0.0	 1.0	 0.933
+Point  0.23	0.872	||	Point  0.754	0.26
+----- Line 1 between two points -----
+* Number of external nodes: 22
+* Number of external path length: 2310
+* Avarage path length: 	105.00 
+
+OUTPUT 3
+
+Line 0:	 0.183	 0.0	 0.69	 1.0
+Line 1:	 0.917	 0.0	 0.36	 1.0
+Line 2:	 0.0	 0.157	 0.175	 0.0
+Line 3:	 0.0	 0.153	 1.0	 0.964
+Line 4:	 0.0	 0.175	 0.385	 0.0
+Line 5:	 0.472	 0.0	 1.0	 0.908
+Line 6:	 1.0	 0.042	 0.775	 1.0
+Line 7:	 1.0	 0.182	 0.301	 1.0
+Line 8:	 0.0	 0.096	 1.0	 0.979
+Line 9:	 0.654	 0.0	 0.527	 1.0
+Line 10: 0.0	 0.347	 1.0	 0.7
+Line 11: 0.0	 0.784	 0.627	 0.0
+Line 12: 0.0	 0.045	 0.774	 1.0
+Line 13: 0.537	 0.0	 0.917	 1.0
+Line 14: 0.0	 0.541	 0.102	 0.0
+Line 15: 0.0	 0.546	 0.564	 0.0
+Line 16: 0.0	 0.982	 1.0	 0.595
+Line 17: 0.0	 0.383	 0.767	 0.0
+Line 18: 0.063	 0.0	 0.853	 1.0
+Line 19: 1.0	 0.647	 0.517	 1.0
+Line 20: 0.274	 0.0	 0.853	 1.0
+Line 21: 0.0	 0.582	 0.647	 1.0
+Line 22: 0.0	 0.26	 1.0	 0.682
+Line 23: 0.102	 0.0	 1.0	 0.228
+Line 24: 0.898	 0.0	 0.759	 1.0
+Point  0.762	0.53	||	Point  0.708	0.64
+----- Line 8 between two points -----
+* Number of external nodes: 84
+* Number of external path length: 36246
+* Avarage path length: 	431.50 
+
