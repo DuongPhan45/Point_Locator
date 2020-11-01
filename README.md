@@ -2,6 +2,10 @@
 This project is a Point Locator program using Binary Tree Data Structure.
 ## Guideline
 The program takes in a .txt file with points and lines' coordinates or users' interactive input and notify whether the given points are on the same plane ( not separated by any lines).
+## View
+
+<img src="https://user-images.githubusercontent.com/47710293/97809139-30a89400-1c39-11eb-82e7-fded4685e00b.png" width = "400" height = "400">
+
 ## Java Files
 The repo contains five java files, corresponding to five classes: 
 - Line.java
