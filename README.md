@@ -1,5 +1,5 @@
 # Point_Locator
-This project is a Point Locator program using Binary Tree Data Structure.
+This project is a Point Locator program to support Math learners, using Binary Tree Data Structure.
 ## Guideline
 The program takes in a .txt file with points and lines' coordinates or users' interactive input and notify whether the given points are on the same plane ( not separated by any lines).
 ## View
