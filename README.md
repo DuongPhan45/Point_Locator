@@ -22,6 +22,5 @@ The sets of demo data are stored in five .txt files:
 - INPUT3.txt
 File postfix_eval_short.txt is used to store information calculated and used by the program's algorithm
 ## Testing Guidance
-- File INPUT0.txt cannot be tested by PointLocator due to format disagreement
-- Other INPUT files runs well on PointLocator
+- All INPUT files runs well on PointLocator excet for INPUT0.txt
 - GraphicImplementation works well with all INPUT files
